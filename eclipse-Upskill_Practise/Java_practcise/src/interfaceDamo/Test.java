@@ -10,7 +10,7 @@ public class Test {
 		Cat c = new Cat();
 		c.eat();
 		
-	System.out.println("Hello");		
+	System.out.println("Good");		
 	}
 
 }

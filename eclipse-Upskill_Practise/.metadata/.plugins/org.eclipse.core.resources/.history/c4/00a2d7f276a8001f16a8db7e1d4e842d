@@ -1,0 +1,5 @@
+package interfaceDamo;
+
+public interface Animal {
+
+}
